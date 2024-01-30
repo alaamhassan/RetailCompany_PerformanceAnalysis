@@ -41,11 +41,12 @@ In this step, I had to make sure that the data is:
 
 The data was made sure it:
 
-aligns with business logic.
-doesn’t contain duplicates.
-doesn’t contain mistyping.
-doesn’t contain blank fields.
-doesn’t have mismatched data types.
+* aligns with business logic.
+* doesn’t contain duplicates.
+* doesn’t contain mistyping.
+* doesn’t contain blank fields.
+* doesn’t have mismatched data types.
+  
 and many others…
 
 If the data violates any of those things, it will be both cleaned and documented in the Changelog Document.
