@@ -26,7 +26,7 @@ Going through the previous steps helps to know which questions to ask. These are
 
 ❺ **Making the Scope of Work Report**
 
-Making the Scope of Work report is the last step in this phase.
+Making the [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf) report is the last step in this phase.
 
 ## 2️⃣ Process Phase:
 In this step, I had to make sure that the data is:
