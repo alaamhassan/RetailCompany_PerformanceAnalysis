@@ -1,60 +1,61 @@
 # Sales Performance Analysis - Excel Project
-This Project consist of **four** phases.
-## 1️⃣Ask Phase:
-  I went through **5** steps.
-  
-  ❶ **Understand the Business Problem**:
-  > A CEO of a retail company that sells bags, shoes, accessories, and other related products has
-  > a record of all the orders in the year 2019, and 2020. The CEO wants to know if his business is going in the right direction or not.
-  
-  ❷ **Understand the stakeholders expectations**:
+This project consists of four phases.
 
-  This helps in identifying the end goals of the project:
-  
-  🚩Determine if the company’s sales performance improved in the year 2020 over 2019.
-  
-  🚩Identify strategies for improving sales performance.
+## 1️⃣ Ask Phase:
+I went through **5** steps.
 
-  ❸ **Understand the Problem Domain**
+❶ **Understand the Business Problem**
 
-  This helps in identifying the KPIS and insights needed to achieve the goals of the project.
- 
-  ❹ **Asking the right questions**
-  
-  Going throught the previous steps helps to know which questions to ask. These are the questions which if answered 
-  the goals of the project will be achived.
+The CEO of a retail company that sells bags, shoes, accessories, and other related products has a record of all the orders in the years 2019 and 2020. The CEO wants to know if his business is going in the right direction or not.
 
-  ❺ **making the Scope of Work Report**
-  
-  Making the [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf) reprot is the last step in this phase.
-    
-## 2️⃣Process Phase:
+❷ **Understand the stakeholders’ expectations**
 
+This helps in identifying the end goals of the project:
+
+🚩 Determine if the company’s sales performance improved in the year 2020 over 2019.
+
+🚩 Identify strategies for improving sales performance.
+
+❸ **Understand the Problem Domain**
+
+This helps in identifying the KPIs and insights needed to achieve the goals of the project.
+
+❹ **Asking the right questions**
+
+Going through the previous steps helps to know which questions to ask. These are the questions that, if answered, the goals of the project will be achieved.
+
+❺ **Making the Scope of Work Report**
+
+Making the Scope of Work report is the last step in this phase.
+
+## 2️⃣ Process Phase:
 In this step, I had to make sure that the data is:
 
-📌Accurate
+📌 Accurate
 
-📌Complete
+📌 Complete
 
-📌
+📌 Trustworthy
 
-📌Trustworthy
-
-📌Comprehsive
+📌 Comprehensive
 
 The data was made sure it:
-* aligns with business logic.
-* doens't contain duplicate.
-* doens't contain mistyping.
-* doesn't contain blank fields.
-* doesn't have mismatched data types.
-  
-and many others...
 
-if the data violated any of thoese things, it will be both cleaned and documented in the 
+aligns with business logic.
+doesn’t contain duplicates.
+doesn’t contain mistyping.
+doesn’t contain blank fields.
+doesn’t have mismatched data types.
+and many others…
+
+If the data violates any of those things, it will be both cleaned and documented in the Changelog Document.
+
+The Process phase resulted in **17 Changes** taking the IDs from C1 to C17 in the Changelog Document.
+
+if the data violates any of those things, it will be both cleaned and documented in the 
 [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 
-The Proccess phase resulted in **17 Changes** taking the ids from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
+The Process phase resulted in **17 Changes** taking the ids from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 
 ## 3️⃣Analyze Phase:
 
@@ -62,26 +63,26 @@ In this phase, I want through **three** steps:
 
 ❶ **Adjusting and Adding any needed column for analysis**
 
-In this step I have **adjusted and added 8 columns** for analysis taking the ids from C18 to C25 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf). 
+In this step, I have **adjusted and added 8 columns** for analysis taking the IDs from C18 to C25 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf). 
 
 ❷ **Performing EDA (Exploratory Data Analysis)**
 
-I performed EDA to know the distribuation of a certain columns to determine if average or median was the most appropriate solution to measure the central value.
+I performed EDA to know the distribution of certain columns to determine if average or median was the most appropriate solution to measure the central value.
 
 ❸ **making pivot tables**
 I used power pivot to make pivot tables.
 
 ## 4️⃣Share Phase:
 
-There are two dieliverable in this phase:
+There are two deliverables in this phase:
 1. **Dashboard**:
    
   This **dashboard is dynamic**, which changes by:
   *  changing 9 slicers.
   *  show vs revenue or net profit.
-  *  show as values or precentage.
+  *  show as values or percentages.
 
-  both the labels and the headers changes.
+  both the labels and the headers change.
 
   The Dashboard Contains four pages:
   
@@ -89,7 +90,7 @@ There are two dieliverable in this phase:
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/cd507b3a-9bb6-4683-803d-edc2d9189997)
 
-  This page answer the following 6 questions:
+  This page answers the following 6 questions:
   
   **KPIS**
   * Calculate total net profit growth in 2020 compared to 2019, given in both absolute terms and as a percentage.
@@ -108,7 +109,7 @@ There are two dieliverable in this phase:
   This page answer the following 7 questions:
   
   **KPIS**
-   * Calculate customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
+   * Calculate the customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the customer retention rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the average discounted order in 2019 and 2020 total, given in both absolute terms and as a percentage.
      
@@ -142,7 +143,7 @@ There are two dieliverable in this phase:
 
 2. **Insights Report**:
    
-   An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contain a detailed reports if the project finding
+   An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contains a detailed report of the project findings.
   
     
 
