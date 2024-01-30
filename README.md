@@ -84,27 +84,34 @@ There are two dieliverable in this phase:
   both the labels and the headers changes.
 
   The Dashboard Contains four pages:
+  
   📃Page 1 (Profit Page):
+  
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/cd507b3a-9bb6-4683-803d-edc2d9189997)
 
   This page answer the following 6 questions:
+  
   **KPIS**
   * Calculate total net profit growth in 2020 compared to 2019, given in both absolute terms and as a percentage.
   * Determine the average order value in 2020 compared to 2019, given in both absolute terms and as a percentage.
   * Determine the average discounted order in 2019 and 2020 total, given in both absolute terms and as a percentage.
+    
   **Graphs**
   * Display net profit/revenue from both old and new consumers for each month during 2020 and 2019.
   * Display the discount category versus the total net profit/revenue.
   * Display net profit/revenue for each month during 2020 and 2019.
 
   📃Page 2 (Customers Page):
+  
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d566be47-5f8f-4d01-9608-ae895d138072)
   
   This page answer the following 7 questions:
+  
   **KPIS**
    * Calculate customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the customer retention rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the average discounted order in 2019 and 2020 total, given in both absolute terms and as a percentage.
+     
   **Graphs**
    * Display the number of unique consumers for both old and new consumers each month during 2019 and 2020.
    * Display the number of orders for both old and new consumers each month during 2019 and 2020.
@@ -113,8 +120,10 @@ There are two dieliverable in this phase:
    * Display the top 7 consumers that contributed most to net profit/revenue during 2019 and 2020.
 
   📃Page 3 (Products Page):
+  
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/339ee538-e496-4f2c-a197-3357c04ce511)
   This page answer the following 4 questions:
+  
   **Graphs**
   * Display the best-selling category each month during 2019 and 2020.
   * Display the number of orders for each category (Line Category).
@@ -122,6 +131,7 @@ There are two dieliverable in this phase:
   * Display the top 5 best and bottom 5 selling products(line SKU) label by category as a percentage for both new and returning customers during 2019 and 2020.
 
   📃Page 4 (Reports Page):  
+  
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d840a291-a1f7-4941-a31c-c4d39bc741c1)
   This page contains links to three reports:
   * [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf).
@@ -131,6 +141,7 @@ There are two dieliverable in this phase:
   it also contains the final suggestion based on the data insights.
 
 2. **Insights Report**:
+   
    An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contain a detailed reports if the project finding
   
     
