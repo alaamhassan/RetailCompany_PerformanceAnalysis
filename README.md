@@ -119,7 +119,8 @@ There are two deliverables in this phase:
 
   📃Page 3 (Products Page):
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/339ee538-e496-4f2c-a197-3357c04ce511)
+  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5aaedb8f-3345-417a-a330-87b9521a7b9d)
+
   This page answer the following 4 questions:
   
   **Graphs**
@@ -130,7 +131,8 @@ There are two deliverables in this phase:
 
   📃Page 4 (Reports Page):  
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d840a291-a1f7-4941-a31c-c4d39bc741c1)
+  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/e4b69b12-a520-4fa1-a840-45602b56977a)
+
   This page contains links to three reports:
   * [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf).
   * [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
