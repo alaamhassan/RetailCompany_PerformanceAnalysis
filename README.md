@@ -119,7 +119,7 @@ There are two deliverables in this phase:
 
   📃Page 3 (Products Page):
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5aaedb8f-3345-417a-a330-87b9521a7b9d)
+  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5572c919-e702-4aa0-9753-1be0b518c8d9)
 
   This page answer the following 4 questions:
   
