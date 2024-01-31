@@ -1,4 +1,4 @@
-![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/eeab3fcc-ea42-4969-b059-0d083f25d14b)# Sales Performance Analysis - Excel Project
+# Sales Performance Analysis - Excel Project
 This project consists of four phases.
 
 ## 1️⃣ Ask Phase:
@@ -85,7 +85,7 @@ There are two deliverables in this phase:
   
   📃Page 1 (Profit Page):
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/e2224a08-a89b-4502-af01-ebdd0eb7a5c0)
+  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/865c4e96-5986-4e64-86b0-c9cbe4518bdf)
 
   This page answers the following 6 questions:
   
