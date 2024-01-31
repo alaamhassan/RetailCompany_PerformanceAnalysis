@@ -146,7 +146,7 @@ There are two deliverables in this phase:
   * [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
   * [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf).
 
-  it also contains the final suggestion based on the data insights.
+  it also contains the final suggestions based on the data insights.
 
 2. **Insights Report**:
    
