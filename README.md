@@ -1,10 +1,10 @@
 # Sales Performance Analysis - Excel Project
 
 ### Table of Contents  
-[1️⃣ Ask Phase](#ask_phase)  
-[2️⃣ Process Phase](#process_phase)  
-[3️ Analyze Phase](#analyze_phase)  
-[4️⃣ Share Phase](#share_phase)  
+1️⃣ [Ask Phase](#ask_phase)  
+2️⃣ [Process Phase](#process_phase)  
+3️⃣ [Analyze Phase](#analyze_phase)  
+4️⃣ [Share Phase](#share_phase)  
 
 
 **This project consists of four phases.**
