@@ -91,7 +91,7 @@ There are two deliverables in this phase:
 
   The Dashboard Contains four pages:
   
-  📃Page 1 (Profit Page):
+  📃**Page 1 (Profit Page)**:
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/865c4e96-5986-4e64-86b0-c9cbe4518bdf)
 
@@ -107,7 +107,7 @@ There are two deliverables in this phase:
   * Display the discount category versus the total net profit/revenue.
   * Display net profit/revenue for each month during 2020 and 2019.
 
-  📃Page 2 (Customers Page):
+  📃**Page 2 (Customers Page)**:
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d566be47-5f8f-4d01-9608-ae895d138072)
   
@@ -125,7 +125,7 @@ There are two deliverables in this phase:
    * Display the total net profit/revenue per total number of orders made.
    * Display the top 7 consumers that contributed most to net profit/revenue during 2019 and 2020.
 
-  📃Page 3 (Products Page):
+  📃**Page 3 (Products Page)**:
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5572c919-e702-4aa0-9753-1be0b518c8d9)
 
@@ -137,7 +137,7 @@ There are two deliverables in this phase:
   * Display net profit/revenue versus category (Line Category) cost for each category.
   * Display the top 5 best and bottom 5 selling products(line SKU) label by category as a percentage for both new and returning customers during 2019 and 2020.
 
-  📃Page 4 (Reports Page):  
+  📃**Page 4 (Reports Page)**:  
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/e4b69b12-a520-4fa1-a840-45602b56977a)
 
