@@ -85,7 +85,7 @@ There are two deliverables in this phase:
   
   📃Page 1 (Profit Page):
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/cd507b3a-9bb6-4683-803d-edc2d9189997)
+  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/a907176b-a355-41eb-8334-9f73edafc042)
 
   This page answers the following 6 questions:
   
