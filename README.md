@@ -89,7 +89,7 @@ In this phase, I want through **three** steps:
 
 I performed EDA to know the distribution of certain columns to determine if average or median was the most appropriate solution to measure the central value.
 
-❸ **making pivot tables**
+❸ **Making pivot tables**
 
 I used power pivot to make pivot tables.
 
