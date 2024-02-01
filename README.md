@@ -1,13 +1,23 @@
 # Sales Performance Analysis - Excel Project
 
-### Table of Contents  
+### Table of Contents 
+
+This project consists of:
+
+**four phases**:
+
 1️⃣ [Ask Phase](#ask_phase)  
 2️⃣ [Process Phase](#process_phase)  
 3️⃣ [Analyze Phase](#analyze_phase)  
-4️⃣ [Share Phase](#share_phase)  
+4️⃣ [Share Phase](#share_phase)
 
+**four deliverables**:
 
-**This project consists of four phases.**
+1️⃣ [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf).<br />
+2️⃣ [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).<br />
+3️⃣ [Dashboard](Dashboard).<br />
+4️⃣ [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf).<br />
+
 <a name="ask_phase"></a>
 ## 1️⃣ Ask Phase:
 I went through **5** steps.
@@ -34,7 +44,7 @@ Going through the previous steps helps to know which questions to ask. These are
 
 ❺ **Making the Scope of Work Report**
 
-Making the [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf) report is the last step in this phase.
+📰 Making the [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf) report is the last step in this phase.
 <a name="process_phase"></a>
 ## 2️⃣ Process Phase:
 In this step, I had to make sure that the data is:
@@ -57,7 +67,7 @@ The data was made sure it:
   
 and many others…
 
-if the data violates any of those things, it will be both cleaned and documented in the 
+📰 if the data violates any of those things, it will be both cleaned and documented in the 
 [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 
 ✅ The Process phase resulted in **17 Changes** taking the IDs from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
@@ -88,7 +98,7 @@ There are two deliverables in this phase:
   *  show as values or percentages.
 
   both the labels and the headers change.
-
+  <a name="Dashboard"></a>
   The Dashboard Contains four pages:
   
   📃**Page 1 (Profit Page)**:
@@ -150,7 +160,7 @@ There are two deliverables in this phase:
 
 2. **Insights Report**:
    
-   An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contains a detailed report of the project findings.
+   📰 An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contains a detailed report of the project findings.
   
     
 
