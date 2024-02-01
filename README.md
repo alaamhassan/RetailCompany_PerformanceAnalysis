@@ -171,7 +171,3 @@ There are two deliverables in this phase:
    <a name="insights_report"></a>
    📰 An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contains a detailed report of the project findings.
   
-    
-
-
-
