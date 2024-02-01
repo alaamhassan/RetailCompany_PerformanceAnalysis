@@ -60,7 +60,7 @@ and many others…
 if the data violates any of those things, it will be both cleaned and documented in the 
 [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 
-✅ The Process phase resulted in **17 Changes** taking the ids from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
+✅ The Process phase resulted in **17 Changes** taking the IDs from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 <a name="analyze_phase"></a>
 ## 3️⃣Analyze Phase:
 
