@@ -60,7 +60,7 @@ and many others…
 if the data violates any of those things, it will be both cleaned and documented in the 
 [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 
-The Process phase resulted in **17 Changes** taking the ids from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
+✅ The Process phase resulted in **17 Changes** taking the ids from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 <a name="analyze_phase"></a>
 ## 3️⃣Analyze Phase:
 
@@ -68,7 +68,7 @@ In this phase, I want through **three** steps:
 
 ❶ **Adjusting and Adding any needed column for analysis**
 
-In this step, I have **adjusted and added 8 columns** for analysis taking the IDs from C18 to C25 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf). 
+✅ In this step, I have **adjusted and added 8 columns** for analysis taking the IDs from C18 to C25 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf). 
 
 ❷ **Performing EDA (Exploratory Data Analysis)**
 
