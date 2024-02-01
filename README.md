@@ -15,7 +15,7 @@ This project consists of:
 
 1️⃣ [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf).<br />
 2️⃣ [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).<br />
-3️⃣ [Dashboard](Dashboard).<br />
+3️⃣ [Dashboard](#Dashboard).<br />
 4️⃣ [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf).<br />
 
 <a name="ask_phase"></a>
