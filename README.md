@@ -44,6 +44,7 @@ This helps in identifying the KPIs and insights needed to achieve the goals of t
 Going through the previous steps helps to know which questions to ask. These are the questions that, if answered, the goals of the project will be achieved.
 
 ❺ **Making the Scope of Work Report**
+
 <a name="scope_of_work"></a>
 📰 Making the [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf) report is the last step in this phase.
 <a name="process_phase"></a>
@@ -67,17 +68,20 @@ The data was made sure it:
 * doesn’t have mismatched data types.
   
 and many others…
+
 <a name="changelog_process_phase"></a>
 📰 if the data violates any of those things, it will be both cleaned and documented in the 
 [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
 
 ✅ The Process phase resulted in **17 Changes** taking the IDs from C1 to C17 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf).
+
 <a name="analyze_phase"></a>
 ## 3️⃣Analyze Phase:
 
 In this phase, I want through **three** steps:
 
 ❶ **Adjusting and Adding any needed column for analysis**
+
 <a name="changelog_analyze_phase"></a>
 ✅ In this step, I have **adjusted and added 8 columns** for analysis taking the IDs from C18 to C25 in the [Changelog Document](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Process_Phase/Changelog%20Documentation.pdf). 
 
@@ -87,10 +91,12 @@ I performed EDA to know the distribution of certain columns to determine if aver
 
 ❸ **making pivot tables**
 I used power pivot to make pivot tables.
+
 <a name="share_phase"></a>
 ## 4️⃣Share Phase:
 
 There are two deliverables in this phase:
+
 <a name="Dashboard"></a>
 1. **Dashboard**:
    
@@ -161,6 +167,7 @@ There are two deliverables in this phase:
   it also contains the final suggestions based on the data insights.
 
 2. **Insights Report**:
+   
    <a name="insights_report"></a>
    📰 An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contains a detailed report of the project findings.
   
