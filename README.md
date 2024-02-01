@@ -90,6 +90,7 @@ In this phase, I want through **three** steps:
 I performed EDA to know the distribution of certain columns to determine if average or median was the most appropriate solution to measure the central value.
 
 ❸ **making pivot tables**
+
 I used power pivot to make pivot tables.
 
 <a name="share_phase"></a>
@@ -105,7 +106,7 @@ There are two deliverables in this phase:
   *  show vs revenue or net profit.
   *  show as values or percentages.
 
-  both the labels and the headers change.
+  **Note**: both the labels and the headers change.
   
   The Dashboard Contains four pages:
   
