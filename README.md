@@ -128,9 +128,9 @@ There are two deliverables in this phase:
 
   📃**Page 2 (Customers Page)**:
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d566be47-5f8f-4d01-9608-ae895d138072)
-  
-  This page answer the following 7 questions:
+  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5d2e1abd-8ffe-478f-91ec-9cd2f5a595a8)
+
+    This page answer the following 7 questions:
   
   **KPIS**
    * Calculate the customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
