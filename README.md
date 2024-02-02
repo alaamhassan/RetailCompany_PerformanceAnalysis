@@ -2,6 +2,10 @@
 
 ### Table of Contents 
 
+
+
+
+
 This project consists of:
 
 **four phases**:
@@ -112,9 +116,8 @@ There are two deliverables in this phase:
   
   📃**Page 1 (Profit Page)**:
   
-  🎬
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/46adfb4b-d22e-4e95-bee6-c12f7751161b
   
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/865c4e96-5986-4e64-86b0-c9cbe4518bdf)
   
   This page answers the following 6 questions:
   
@@ -130,9 +133,7 @@ There are two deliverables in this phase:
 
   📃**Page 2 (Customers Page)**:
 
-  🎬
-  
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5d2e1abd-8ffe-478f-91ec-9cd2f5a595a8)
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/6fa1201b-61a6-4abb-82b1-5cbdf410f771
 
   This page answer the following 7 questions:
   
@@ -150,9 +151,7 @@ There are two deliverables in this phase:
 
   📃**Page 3 (Products Page)**:
   
-  🎬
-  
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5572c919-e702-4aa0-9753-1be0b518c8d9)
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d823d187-3f6c-457e-9e83-cc2b3d872a07
 
   This page answer the following 4 questions:
   
@@ -163,10 +162,8 @@ There are two deliverables in this phase:
   * Display the top 5 best and bottom 5 selling products(line SKU) label by category as a percentage for both new and returning customers during 2019 and 2020.
 
   📃**Page 4 (Reports Page)**:  
-  
-  🎬
-  
-  ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/e4b69b12-a520-4fa1-a840-45602b56977a)
+ 
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/7e6f2e57-4788-4ea4-abda-34af854d25ed
 
   This page contains links to three reports:
   * [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf).
