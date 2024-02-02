@@ -112,8 +112,10 @@ There are two deliverables in this phase:
   
   📃**Page 1 (Profit Page)**:
   
+  🎬
+  
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/865c4e96-5986-4e64-86b0-c9cbe4518bdf)
-
+  
   This page answers the following 6 questions:
   
   **KPIS**
@@ -127,10 +129,12 @@ There are two deliverables in this phase:
   * Display net profit/revenue for each month during 2020 and 2019.
 
   📃**Page 2 (Customers Page)**:
+
+  🎬
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5d2e1abd-8ffe-478f-91ec-9cd2f5a595a8)
 
-    This page answer the following 7 questions:
+  This page answer the following 7 questions:
   
   **KPIS**
    * Calculate the customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
@@ -146,6 +150,8 @@ There are two deliverables in this phase:
 
   📃**Page 3 (Products Page)**:
   
+  🎬
+  
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/5572c919-e702-4aa0-9753-1be0b518c8d9)
 
   This page answer the following 4 questions:
@@ -157,6 +163,8 @@ There are two deliverables in this phase:
   * Display the top 5 best and bottom 5 selling products(line SKU) label by category as a percentage for both new and returning customers during 2019 and 2020.
 
   📃**Page 4 (Reports Page)**:  
+  
+  🎬
   
   ![image](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/e4b69b12-a520-4fa1-a840-45602b56977a)
 
