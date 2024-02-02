@@ -1,27 +1,25 @@
 # Sales Performance Analysis - Excel Project
 
-### Table of Contents 
-
-
-
-
+## Table of Contents 
 
 This project consists of:
 
-**four phases**:
+▶️**four phases**:
 
-1️⃣ [Ask Phase](#ask_phase)  
-2️⃣ [Process Phase](#process_phase)  
-3️⃣ [Analyze Phase](#analyze_phase)  
-4️⃣ [Share Phase](#share_phase)
+ 1️⃣ [Ask Phase](#ask_phase)  
+ 2️⃣ [Process Phase](#process_phase)  
+ 3️⃣ [Analyze Phase](#analyze_phase)  
+ 4️⃣ [Share Phase](#share_phase)
+ 
 
-**four deliverables**:
+▶️**four deliverables**:
 
 1️⃣ [Scope of Work](#scope_of_work).<br />
 2️⃣ [Changelog Document](#changelog_process_phase) (Process Phase).<br />
 2️⃣ [Changelog Document](#changelog_analyze_phase) (Analyze Phase).<br />
 3️⃣ [Dashboard](#Dashboard).<br />
 4️⃣ [Insights Report](#insights_report).<br />
+
 
 <a name="ask_phase"></a>
 ## 1️⃣ Ask Phase:
@@ -103,7 +101,7 @@ I used power pivot to make pivot tables.
 There are two deliverables in this phase:
 
 <a name="Dashboard"></a>
-1. **Dashboard**:
+1.📊 **Dashboard**:
    
   This **dashboard is dynamic**, which changes by:
   *  changing 9 slicers.
@@ -116,33 +114,32 @@ There are two deliverables in this phase:
   
   📃**Page 1 (Profit Page)**:
   
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/46adfb4b-d22e-4e95-bee6-c12f7751161b
-  
-  
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/41f57c73-837a-46ff-aae2-1c56d5f2e798
+
   This page answers the following 6 questions:
   
-  **KPIS**
+  🎯**KPIS**
   * Calculate total net profit growth in 2020 compared to 2019, given in both absolute terms and as a percentage.
   * Determine the average order value in 2020 compared to 2019, given in both absolute terms and as a percentage.
   * Determine the average discounted order in 2019 and 2020 total, given in both absolute terms and as a percentage.
     
-  **Graphs**
+  📈**Graphs**
   * Display net profit/revenue from both old and new consumers for each month during 2020 and 2019.
   * Display the discount category versus the total net profit/revenue.
   * Display net profit/revenue for each month during 2020 and 2019.
 
   📃**Page 2 (Customers Page)**:
-
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/6fa1201b-61a6-4abb-82b1-5cbdf410f771
+  
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/1937ebc4-f2c9-43b6-9c4b-877298ce67c5
 
   This page answer the following 7 questions:
   
-  **KPIS**
+  🎯**KPIS**
    * Calculate the customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the customer retention rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the average discounted order in 2019 and 2020 total, given in both absolute terms and as a percentage.
      
-  **Graphs**
+  📈**Graphs**
    * Display the number of unique consumers for both old and new consumers each month during 2019 and 2020.
    * Display the number of orders for both old and new consumers each month during 2019 and 2020.
    * Display the total number of unique consumers per total number of orders made.
@@ -150,12 +147,12 @@ There are two deliverables in this phase:
    * Display the top 7 consumers that contributed most to net profit/revenue during 2019 and 2020.
 
   📃**Page 3 (Products Page)**:
-  
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/d823d187-3f6c-457e-9e83-cc2b3d872a07
+    
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/fb8d4bc0-8f5b-4de8-905e-20024d123506
 
   This page answer the following 4 questions:
   
-  **Graphs**
+  📈**Graphs**
   * Display the best-selling category each month during 2019 and 2020.
   * Display the number of orders for each category (Line Category).
   * Display net profit/revenue versus category (Line Category) cost for each category.
@@ -163,7 +160,9 @@ There are two deliverables in this phase:
 
   📃**Page 4 (Reports Page)**:  
  
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/7e6f2e57-4788-4ea4-abda-34af854d25ed
+   
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/a32a388e-96ad-4189-aa12-83a092c4efe6
+
 
   This page contains links to three reports:
   * [Scope of Work](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Ask_Phase/Scope%20of%20Work.pdf).
@@ -172,7 +171,7 @@ There are two deliverables in this phase:
 
   it also contains the final suggestions based on the data insights.
 
-2. **Insights Report**:
+2.📝 **Insights Report**:
    
    <a name="insights_report"></a>
    📰 An [Insights Report](https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/blob/main/Share_Phase/Insights_Report.pdf) which contains a detailed report of the project findings.
