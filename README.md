@@ -53,13 +53,15 @@ Going through the previous steps helps to know which questions to ask. These are
 ## 2️⃣ Process Phase:
 In this step, I had to make sure that the data is:
 
-📌 Accurate
+📌 Accurate.
 
-📌 Complete
+📌 Complete.
 
-📌 Trustworthy
+📌 Consistant.
 
-📌 Comprehensive
+📌 Trustworthy.
+
+📌 Comprehensive.
 
 The data was made sure it:
 
@@ -107,14 +109,16 @@ There are two deliverables in this phase:
   *  changing 9 slicers.
   *  show vs revenue or net profit.
   *  show as values or percentages.
+    
+  **In addition to** other options related to specific charts
 
-  **Note**: both the labels and the headers change.
+  **Note**: Labels, legends, and headers change
   
   The Dashboard Contains four pages:
   
   📃**Page 1 (Profit Page)**:
   
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/41f57c73-837a-46ff-aae2-1c56d5f2e798
+  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/52e65310-ea85-4cd8-b4b8-c5d803b6a501
 
   This page answers the following 6 questions:
   
@@ -130,14 +134,14 @@ There are two deliverables in this phase:
 
   📃**Page 2 (Customers Page)**:
   
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/1937ebc4-f2c9-43b6-9c4b-877298ce67c5
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/87346840-d652-45c9-903b-9f53e7e681ed
 
   This page answer the following 7 questions:
   
   🎯**KPIS**
    * Calculate the customer acquisition rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
    * Determine the customer retention rate in 2020 compared to 2019, given in both absolute terms and as a percentage.
-   * Determine the average discounted order in 2019 and 2020 total, given in both absolute terms and as a percentage.
+   * Calculate total growth in the number of orders in 2020 compared to 2019, given in both absolute terms and as a percentage.
      
   📈**Graphs**
    * Display the number of unique consumers for both old and new consumers each month during 2019 and 2020.
@@ -147,8 +151,8 @@ There are two deliverables in this phase:
    * Display the top 7 consumers that contributed most to net profit/revenue during 2019 and 2020.
 
   📃**Page 3 (Products Page)**:
-    
-https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/fb8d4bc0-8f5b-4de8-905e-20024d123506
+   
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/3cc4cb55-68fb-4057-b8d1-47375e8f4971
 
   This page answer the following 4 questions:
   
