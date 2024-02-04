@@ -117,8 +117,8 @@ There are two deliverables in this phase:
   The Dashboard Contains four pages:
   
   📃**Page 1 (Profit Page)**:
-  
-  https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/52e65310-ea85-4cd8-b4b8-c5d803b6a501
+    
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/61a21850-62fd-47f1-9fbf-60a755d3eb28
 
   This page answers the following 6 questions:
   
@@ -134,7 +134,7 @@ There are two deliverables in this phase:
 
   📃**Page 2 (Customers Page)**:
   
-https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/87346840-d652-45c9-903b-9f53e7e681ed
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/66318781-9211-4dbb-ae1c-da533d5b7a01
 
   This page answer the following 7 questions:
   
@@ -152,7 +152,7 @@ https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481
 
   📃**Page 3 (Products Page)**:
    
-https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/3cc4cb55-68fb-4057-b8d1-47375e8f4971
+https://github.com/alaamhassan/RetailCompany_PerformanceAnalysis/assets/67596481/dc0c2d47-4810-467f-b85d-9352808fb2b8
 
   This page answer the following 4 questions:
   
